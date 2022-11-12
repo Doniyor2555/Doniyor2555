@@ -29,7 +29,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&langs_count=8&show_icons=true&theme=cobalt)
  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
- <img src="/github-metrics.svg" alt="Metrics" width="100%">
+ 
 ![Metrics](/github-metrics.svg)
 
 </div>
