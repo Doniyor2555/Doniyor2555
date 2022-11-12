@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, My name is Doniyor</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79018&width=435&lines=Hi+my+name+is+Doniyor)](https://git.io/typing-svg)
 <h3>My stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-black ?style=for-the-badge&logo=HTML5&logoColor=ЦВЕТ ЛОГОТИПА"/>
