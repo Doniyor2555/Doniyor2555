@@ -28,7 +28,7 @@
 <div align="center">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&langs_count=8&show_icons=true&theme=cobalt)
-
+![Metrics](/github-metrics.svg)
 
 </div>
 
