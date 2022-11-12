@@ -29,7 +29,8 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&langs_count=8&show_icons=true&theme=cobalt)
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
