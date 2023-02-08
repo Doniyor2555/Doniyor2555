@@ -36,4 +36,4 @@
  
 
 </div>
-<img width=100% style="color: blue" src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
