@@ -30,6 +30,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&langs_count=8&show_icons=true&theme=cobalt)
- 
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Doni's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Doni&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </div>
