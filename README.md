@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79018&width=435&lines=Hi+my+name+is+Doniyor)](https://git.io/typing-svg)
 
-<div width=100% align="center">
-  <img  alt="Person coding gif" src="https://www.w3webschool.com/wp-content/uploads/2022/10/developer.gif" height="250" width="300" /> 
- <div width="50%">
 
 <h3>My stack</h2>
 <div align="center">
