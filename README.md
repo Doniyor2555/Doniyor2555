@@ -39,5 +39,10 @@
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)username=Doniyor2555&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
  ![](./profile-3d-contrib/profile-green-animate.svg)
- 
+
+<!-- Line activity  -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Doniyor's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Doniyor2555&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!-- Line activity  -->
 </div>
