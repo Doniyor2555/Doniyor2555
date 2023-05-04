@@ -31,7 +31,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&langs_count=8&show_icons=true&bg_color=1F222E&title_color=F85D7F&&icon_color=F8D866)
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Doni's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Doniyor2555&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)username=Doniyor2555&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
  ![](./profile-3d-contrib/profile-green-animate.svg)
  
