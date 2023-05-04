@@ -29,6 +29,9 @@
 
 <div align="center">
 
+<!-- Activity  -->
+ 
+ ![Doniyor's github stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&show_icons=true&theme=radical&include_all_commits=true) 
 
 <!-- Line activity  -->
 
@@ -36,18 +39,6 @@
 
 <!-- Line activity  -->
  
- 
- 
-<!-- ver  -->
-                                            
-<!-- HEEEEEEEE  -->
-
-| ![Doniyor's github stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&show_icons=true&theme=radical&include_all_commits=true) 
-
-
-
-
-
-
-<!-- ver -->
+<!-- Activity  -->
+                                             
 </div>
