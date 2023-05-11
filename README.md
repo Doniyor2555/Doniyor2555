@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/JavaScript-black ?style=for-the-badge&logo=JavaScript&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/React-black ?style=for-the-badge&logo=React&logoColor=ЦВЕТ ЛОГОТИПА"/>
 <img src="https://img.shields.io/badge/Redux-black ?style=for-the-badge&logo=Redux&logoColor=ЦВЕТ ЛОГОТИПА"/>
-<img src="https://img.shields.io/badge/TypeScript-black ?style=for-the-badge&logo=TypeScript&logoColor=ЦВЕТ ЛОГОТИПА"/>
 </div>
 
 ---
