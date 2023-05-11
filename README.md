@@ -19,9 +19,12 @@
 
 
 <div align="center">
- 
+ // stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Doniyor2555&theme=Javascript-dark&border_radius=10)](https://git.io/streak-stats)
  
+this activity
+ 
+ // starts
 </div>
 
 ---
@@ -30,7 +33,7 @@
 
 <!-- Activity  -->
  
- ![Doniyor's github stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&show_icons=true&theme=radical&include_all_commits=true) 
+ ![Doniyor's github stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&show_icons=true&theme=radical&include_all_commits=true)
 
 <!-- Line activity  -->
 
