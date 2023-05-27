@@ -14,13 +14,13 @@
 <img src="https://img.shields.io/badge/Redux-black ?style=for-the-badge&logo=Redux&logoColor=ЦВЕТ ЛОГОТИПА"/> -->
 </div>
 ---
-### :fire: My Stats :
+:fire: My Stats :
 <div align="center">
   
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Doniyor2555&theme=Javascript-dark&border_radius=10)](https://git.io/streak-stats)
  
 </div>
----
+
 <div align="center">
 <!-- Activity  -->
  
