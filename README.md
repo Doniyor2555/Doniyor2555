@@ -26,7 +26,7 @@
  
  ![Doniyor's github stats](https://github-readme-stats.vercel.app/api?username=Doniyor2555&show_icons=true&theme=radical&include_all_commits=true)
 <!-- Line activity  -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Doniyor's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Doniyor2555&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Doniyor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Doniyor2555&theme=dracula)](https://github.com/Doniyor2555/github-readme-activity-graph)
 <!-- Line activity  -->
  
 <!-- Activity  -->                                            
